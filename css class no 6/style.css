@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+}
+.boxWrapper{
+    width: 800px;
+    margin: auto;
+}
+.nkHeader{
+    display: flex;   
+    background-color: #e6e6e6; 
+}
+.topLeft{
+    width: 300px;
+}
+.topRight{
+    width: 500px;
+    padding: 0px 15px;
+}
+.mainNav{
+    padding: 10px;
+    background-color: darkturquoise;
+}
+.mainNav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+}
+.mainNav ul a{
+    color: #fff;
+    padding: 8px 14px;
+    text-decoration: none;
+}
+.nkFooter{
+    padding: 10px 15px;
+    background-color: lightslategrey;
+    text-align: center;
+}
+.middleBody{
+    background-color: maroon;
+    display: flex;
+}
+.leftMiddle{
+    width: 500px;
+    padding: 10px 15px;
+    color: white;
+}
+.leftMiddle img{
+    width: 450px;
+} 
+.rightMiddle{
+    padding: 10px;
+    width: 300px;
+    background-color: #eee;
+}
+
+
+
+/* Style for Site  */
+.topLeft img{
+    width: 180px;
+}
+.topRight h4{
+    color: violet;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: normal;
+}
+.topRight h1{
+    text-transform: capitalize;
+    text-decoration: none;
+    text-shadow: 3px 3px 3px #222;   
+    color: #c6a7a7;
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+}
+.leftMiddle p{
+    text-indent: 25px;
+}
+.leftMiddle h2{
+    font-family: 'Lobster', cursive;
+}
+.rightMiddle h3{
+    text-decoration: underline;
+    font-family: 'Lobster', cursive;
+    color: red;
+}

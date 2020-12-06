@@ -1,0 +1,74 @@
+.wrapper{
+    background-color: aqua;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    display: flex;
+}
+.left{
+    width: 540px;
+    background: #000;
+    height: 100%;
+}
+.right{
+    width: 60px;
+    height: 100%;
+    background-color: #8F57DC;
+}
+.leftTop{
+    background-color: #0AEE0A;
+    height: 100px;
+}
+.leftBottom{
+    background-color: gray;
+    height: 500px;
+    display: flex;
+}
+.lbLeft{
+    width: 400px;
+    background-color: red;
+    height: 100%;
+}
+.lbRight{
+    width: 140px;
+    background-color: green;
+    height: 100%;
+}
+.lbrTop{
+    height: 350px;
+    background-color: #D158DC;
+}
+.lbrBottom{
+    height: 150px;
+    background-color: #B1F19A;
+}
+.lblTop{
+    height: 250px;
+    background-color: aqua;
+}
+.lblbottom{
+    height: 250px;
+    background-color: blue;
+    display: flex;
+}
+.india{
+    width: 200px;
+    background-color: #EEDB0A;
+    height: 100%;
+}
+
+.pakistan{
+    width: 200px;
+    background-color: #4185C1;
+    height: 100%;
+}
+.nepal{
+    width: 150px;
+    background-color: #0A9BEE;
+    height: 100%;
+}
+.bhutan{
+    width: 250px;
+    background-color: #EE8E0A;
+    height: 100%;
+}
